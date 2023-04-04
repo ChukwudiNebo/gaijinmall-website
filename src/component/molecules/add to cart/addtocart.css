@@ -1,0 +1,18 @@
+@media screen and (min-width: 100px) {
+  .AddToCart {
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+}
+@media screen and (min-width: 576px) {
+}
+@media screen and (min-width: 768px) {
+}
+@media screen and (min-width: 992px) {
+}
+@media screen and (min-width: 1200px) {
+        .AddToCart{
+padding-left: unset;
+padding-right: unset;
+}
+}

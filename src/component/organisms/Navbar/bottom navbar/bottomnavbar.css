@@ -1,0 +1,40 @@
+@media screen and (min-width: 100px) {
+  .bottomNav {
+    /* background-color: #0b5ed7; */
+    background: linear-gradient(to right, #021b79, #0575e6);
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 20px;
+    /* margin-top: 20px; */
+  }
+  .bottomNav > div > div {
+    padding-top: 20px;
+  }
+  .bottomNav__copyright {
+    font-size: 12px;
+  }
+}
+@media screen and (min-width: 576px) {
+}
+@media screen and (min-width: 768px) {
+}
+@media screen and (min-width: 992px) {
+}
+@media screen and (min-width: 1200px) {
+  .bottomNav {
+    /* background-color: #0b5ed7; */
+    background: linear-gradient(to right, #021b79, #0575e6);
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: unset;
+    padding-right: unset;
+    /* margin-top: 20px; */
+  }
+
+  .bottomNav__copyright {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,33 @@
+.buttonDanger {
+  /*margin-right: 20px;
+  */font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 25px;
+  padding: 10px 31px;
+  border: 1px solid red;
+  color: red;
+  background-color: unset;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.buttonDanger:hover{
+  /*margin-right: 20px;
+  */font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 25px;
+  padding: 10px 31px;
+  border: 1px solid red;
+  color: white;
+  background-color: red;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}

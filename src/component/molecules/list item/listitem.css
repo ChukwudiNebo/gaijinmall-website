@@ -1,0 +1,33 @@
+.list__header {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.listUL {
+  line-height: 30px;
+}
+
+.social-media {
+  margin: 5px 2px;
+  width: 110px;
+}
+
+.fa-facebook {
+  background-color: #3b5998;
+  padding: 6px 18px;
+  font-size: 17px;
+}
+
+.fa-twitter {
+  background-color: #55acee;
+  padding: 6px 16px;
+  font-size: 17px;
+}
+
+.fa-instagram {
+  background-color: #740101;
+  padding: 6px 16px;
+  font-size: 17px;
+  margin: 5px 0px;
+}

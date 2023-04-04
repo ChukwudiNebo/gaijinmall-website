@@ -1,0 +1,42 @@
+/* .addedCartItem{
+    width: 64%;
+} */
+@media screen and (min-width: 100px) {
+  .addedCartItem{
+     padding-left: 20px;
+    padding-right: 10px;
+  }
+  .addedCartItem__header {
+    font-weight: bold;
+  }
+   .addedCartItem__adDetail {
+    margin-top: 10px;
+    width: 300px;
+  }
+  .addedCartItem__quantity{
+    margin-top: 15px;
+  }
+}
+@media screen and (min-width: 576px) {
+}
+@media screen and (min-width: 768px) {
+}
+@media screen and (min-width: 992px) {
+}
+@media screen and (min-width: 1200px) {
+  .addedCartItem{
+     padding-left: unset;
+    padding-right: unset;
+  }
+  .addedCartItem__quantity{
+    margin-top: unset;
+  }
+  .addedCartItem__header {
+    font-weight: bold;
+  }
+
+  .addedCartItem__adDetail {
+    margin-top: 10px;
+    width: 600px;
+  }
+}
